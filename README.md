@@ -1,6 +1,6 @@
 # Vion_Vision_System
 <div style = "display: inline_block"><br>
-<img align="center" alt= "vion-logo" src"">
+<img align="center" alt= "vion-logo" src"./logo_vion_github.png">
 
 </div>
 
