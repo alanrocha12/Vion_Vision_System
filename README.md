@@ -1,7 +1,6 @@
 # Vion_Vision_System
 <div style = "display: inline_block"><br>
 <img align="center" alt= "vion-logo" src="logo_vion_github.png" widht = "100%">
-
 </div>
 
 Sistema inteligente de monitoramento por câmeras que utiliza Inteligência Artificial e visão computacional para detectar objetos e identificar situações em tempo real, proporcionando mais segurança, controle e automação.
